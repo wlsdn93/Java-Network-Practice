@@ -6,7 +6,7 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Random;
 import java.util.Base64;
 
-public class TCPServer {
+public class WSServer {
     private static final int PORT = 12345;
     private static final String WEBSOCKET_MAGIC_STRING = "258EAFA5-E914-47DA-95CA-C5AB0DC85B11";
 
